@@ -64,7 +64,6 @@ export function Home() {
 
   return (
     <div className="w-full">
-
       <div className="fixed top-0 left-0 w-full h-1 bg-transparent z-50">
         <div 
           className="h-full bg-gradient-to-r from-orange-500 to-orange-700" 
